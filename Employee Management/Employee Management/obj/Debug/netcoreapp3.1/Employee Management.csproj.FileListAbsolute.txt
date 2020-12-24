@@ -1,0 +1,362 @@
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.xml
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CopyComplete
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.pdb
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.input.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.output.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorCoreGenerate.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.Views.pdb
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\libman.json
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRole.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Index.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Create.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Edit.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Create.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Edit.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Index.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Create.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Edit.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csprojAssemblyReference.cache
+E:\New folder2\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\libman.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.pdb
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csprojAssemblyReference.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.xml
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.input.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.output.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorCoreGenerate.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRole.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Create.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Edit.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Create.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Edit.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Create.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Edit.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Index.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cs
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.Views.pdb
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CopyComplete
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+E:\githubpage\Employee Management\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
